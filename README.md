@@ -1,2 +1,3 @@
 # Object_Oriented_Programming_Projects
-Projects with OOPS concepts
+
+There are different projects with help of OOPS concepts
