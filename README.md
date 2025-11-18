@@ -1,4 +1,4 @@
-# Object_Oriented_Programming_Projects
+# Object Oriented Programming Projects
 
 There are different projects with help of OOPS concepts
 <br>
